@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_special_case"
+        android:title="@string/show_special_laureates_text" />
+
+    <item
+        android:id="@+id/menu_exit"
+        android:title="@string/exit_text" />
+</menu>

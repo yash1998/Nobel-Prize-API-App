@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NobelPrizeDummyApp</string>
+
+    <string name="year_text">Year:\u00A0</string>
+    <string name="category_text">Category:\u00A0</string>
+    <string name="apply_text">Apply</string>
+    <string name="filters_text">Filters</string>
+    <string name="reset_filters_text">Reset Filters</string>
+    <string name="exit_text">Exit</string>
+    <string name="show_special_laureates_text">Show Special Laureates</string>
+    <string name="select_year_text">Select Year</string>
+    <string name="select_category_text">Select Category</string>
+
+    <string name="laureate_full_name">%1s %2s</string>
+    <string name="choose_category_text">Choose Category</string>
+    <string name="choose_year_text">Choose Year</string>
+</resources>
